@@ -1,2 +1,2 @@
-print("uqu2")
+print("u")
 print("uqu3")
